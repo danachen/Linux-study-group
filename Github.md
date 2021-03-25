@@ -26,3 +26,7 @@ Add and commit again
 `git commit -m 'commit message'`
 Push changes
 `git push destination-repository`
+
+Note the above only works if the submodule is not deleted in Github.
+
+When embedding one folder inside another: https://www.atlassian.com/git/tutorials/git-move-repository
