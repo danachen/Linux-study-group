@@ -1,1 +1,1 @@
-# Other_Notes
+Linux study group notes
